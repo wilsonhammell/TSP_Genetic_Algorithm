@@ -1,0 +1,4 @@
+matplotlib==3.5.1
+networkx==2.6.3
+numpy==1.21.4
+python_tsp==0.2.1
